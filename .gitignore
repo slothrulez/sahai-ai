@@ -1,22 +1,30 @@
-# --- Credentials ---
+# --- Credentials & Security ---
 .env
+*.env
 
-# --- Python & Cache ---
+# --- Audio Buffers & Binary Data ---
+# We ignore the contents but keep the folders if you want (using .gitkeep)
+temp_audio/*
+static/*.wav
+static/*.mp3
+*.wav
+*.mp3
+
+# --- Python & Environment ---
 __pycache__/
 core/__pycache__/
-config/__pycache__/
+venv/
+.venv/
 *.py[cod]
 
-# --- Executables & External Tools ---
-ngrok.exe
-ngrok.exe.old
+# --- Executables & Tools ---
+*.exe
+*.exe.old
 .ngrok.exe
+ngrok
 
-# --- Temporary Audio & Logs ---
-temp_audio/
-logs/
-*.wav
-
-# --- Local Environment ---
-venv/
+# --- IDEs ---
 .vscode/
+.idea/
+
+test.exe

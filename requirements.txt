@@ -1,4 +1,14 @@
-flask
-requests
-google-generativeai
-python-dotenv
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Environment & Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# AI Engines
+google-generativeai==0.3.2
+
+# Telephony & Audio Processing
+twilio==9.0.0
+pydub==0.25.1
