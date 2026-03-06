@@ -20,7 +20,7 @@ SAHAY AI transforms a humble phone call into a high-speed portal for generative 
 
 * Accessibility: Any user with a basic ₹1,000 phone can access the same intelligence as someone with a flagship smartphone.
 
-* Vernacular First: Native support for Malayalam and Hindi, allowing users to speak naturally rather than struggling with a second language.
+* Vernacular First: Native support for Hindi, Tamil, Malayalam, Kannada and Telugu, allowing users to speak naturally rather than struggling with a second language.
 
 * Simplification Engine: It doesn't just provide answers; it distills complex information into simplified, digestible verbal summaries (maximum 500 characters) suited for spoken-word delivery.
 
