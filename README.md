@@ -4,7 +4,7 @@ SAHAY AI is an end-to-end voice-intelligence platform that leverages the global 
 
 ## The Problem: The "Digital Intelligence" Divide
 
-* Despite the rapid evolution of Artificial Intelligence, a significant portion of the global population remains excluded from its benefits. This exclusion is driven by three primary barriers:
+Despite the rapid evolution of Artificial Intelligence, a significant portion of the global population remains excluded from its benefits. This exclusion is driven by three primary barriers:
 
 * Hardware & Infrastructure Poverty: Advanced AI interfaces (apps/web) require smartphones and high-speed data plans, which are inaccessible to millions of "feature phone" or "button phone" users.
 
